@@ -1,0 +1,20 @@
+button {
+  background-color: rgb(121,204,213);
+  border: 0;
+  border-radius: 3px;
+  height: 80px;
+  width: 80px;
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+#number {
+  height: 80px;
+  width: 324px;
+  font-size: 30px;
+  border: 2px solid;
+  border-radius: 5px;
+  background-color: rgb(200,200,200);
+  font-family: Monospace;
+  
+  
+}
